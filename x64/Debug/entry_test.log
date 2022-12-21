@@ -1,0 +1,4 @@
+﻿  hook.cpp
+C:\Users\PC\source\repos\entry_test\entry_test\hook.cpp(55,26): warning C4477: 'wprintf' : format string '%08X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'HMODULE'
+C:\Users\PC\source\repos\entry_test\entry_test\hook.cpp(55,26): warning C4313: 'wprintf': '%X' in format string conflicts with argument 2 of type 'HMODULE'
+  entry_test.vcxproj -> C:\Users\PC\source\repos\entry_test\x64\Debug\entry_test.exe
